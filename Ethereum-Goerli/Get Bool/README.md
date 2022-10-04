@@ -5,7 +5,7 @@ Smart contract to return True or False values from our oracle using a `curl GET`
 [1] Boolean Return
 
 ## Oracle Address & JobID:
-[Oracle Address](https://goerli.etherscan.io/token/0x090A0962e36b9BE9dd7f7Bd60Ff8018a23ABD52E): 
+[Oracle Address](https://goerli.etherscan.io/address/0x090A0962e36b9BE9dd7f7Bd60Ff8018a23ABD52E): 
 ```
 0x090A0962e36b9BE9dd7f7Bd60Ff8018a23ABD52E
 ```
