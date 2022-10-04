@@ -22,7 +22,7 @@ contract getBoolTemplate is ChainlinkClient, ConfirmedOwner {
   setChainlinkToken(0x514910771AF9Ca656af840dff83E8264EcF986CA);
   oracle = 0x7AE841fCD06a794537912749C5449b3290de780f;
   externalJobId = "975409ce0ed84d87bad2a6e503cccf0e";
-  oraclePayment = ((1 * LINK_DIVISIBILITY) / 10); // n * 10**18
+  oraclePayment = 1500000000000000000
   }
 
   function requestBool()
