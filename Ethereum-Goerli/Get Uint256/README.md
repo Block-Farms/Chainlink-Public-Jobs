@@ -5,7 +5,7 @@ Smart contract to return a single Uint256 integer from our oracle using a `curl 
 [1] Pricing Information
 
 ## Oracle Address & JobID:
-[Oracle Address](https://goerli.etherscan.io/token/0x090A0962e36b9BE9dd7f7Bd60Ff8018a23ABD52E): 
+[Oracle Address](https://goerli.etherscan.io/address/0x090A0962e36b9BE9dd7f7Bd60Ff8018a23ABD52E): 
 ```
 0x090A0962e36b9BE9dd7f7Bd60Ff8018a23ABD52E
 ```
