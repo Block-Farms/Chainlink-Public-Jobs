@@ -13,9 +13,9 @@ Oracle JobID:
 ```
 0996e13d921649dfa9aee58214f8cde7
 ```
-Oracle Fee: 0.15 [LINK](https://ftmscan.com/address/0x6F43FF82CCA38001B6699a8AC47A2d0E66939407)
+Oracle Fee: 0.15 [LINK](https://ftmscan.com/token/0x6F43FF82CCA38001B6699a8AC47A2d0E66939407)
 
-NOTE: Chainlink oracles operating on fantom Mainnet, must be paid in the erc677 LINK token, not the erc20 LINK token. To swap between the two LINK tokens: use the official Chainlink Platform: [Pegswap](https://pegswap.chain.link/)
+NOTE: Chainlink oracles operating on Fantom Mainnet, must be paid in the ERC-677 LINK token, not the ERC20-20 LINK token. You must use ERC-677 LINK on Fantom. ERC-20 LINK will not work with Chainlink services. Use [bridge.multichain.org](https://bridge.multichain.org/#/router) to send LINK to the Fantom network, be sure to select LINK-ERC677 as the token you will receive on Fantom mainnet.
 
 ## Input Variables:
 The smart contract requires the following parameters to be specified BEFORE compiling & deploying on Remix:
