@@ -5,7 +5,7 @@ Smart contract to return a single Uint256 integer, and a single bytes from our o
 [1] Pricing Information
 
 ## Oracle Address & JobID:
-[Oracle Address](https://goerli.etherscan.io/token/0xedaa6962Cf1368a92e244DdC11aaC49c0A0acC37): 
+[Oracle Address](https://goerli.etherscan.io/address/0xedaa6962Cf1368a92e244DdC11aaC49c0A0acC37): 
 ```
 0xedaa6962Cf1368a92e244DdC11aaC49c0A0acC37
 ```
