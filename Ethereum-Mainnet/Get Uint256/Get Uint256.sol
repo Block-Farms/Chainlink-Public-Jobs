@@ -22,7 +22,7 @@ contract getUintTemplate is ChainlinkClient, ConfirmedOwner {
     setChainlinkToken(0x514910771AF9Ca656af840dff83E8264EcF986CA);
     oracle = 0x7AE841fCD06a794537912749C5449b3290de780f;
     externalJobId = "a052732022e04e89be3e0fc06e457985";
-    oraclePayment = 1500000000000000000
+    oraclePayment = 1500000000000000000;
   }
 
   function requestUint()
