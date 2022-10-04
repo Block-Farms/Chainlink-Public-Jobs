@@ -5,7 +5,7 @@ Smart contract to return a single integer from our oracle using a `curl GET` com
 [1] Numerical Data
 
 ## Oracle Address & JobID:
-[Oracle Address](https://etherscan.io/token/0x7AE841fCD06a794537912749C5449b3290de780f): 
+[Oracle Address](https://etherscan.io/address/0x7AE841fCD06a794537912749C5449b3290de780f): 
 ```
 0x7AE841fCD06a794537912749C5449b3290de780f
 ```
@@ -13,7 +13,7 @@ Oracle JobID:
 ```
 e07fd3ed28544479bb1973e9c3379780
 ```
-Oracle Fee: 0.1 [LINK](https://etherscan.io/token/0x514910771AF9Ca656af840dff83E8264EcF986CA)
+Oracle Fee: 1.5 [LINK](https://etherscan.io/token/0x514910771AF9Ca656af840dff83E8264EcF986CA)
 
 ## Input Variables:
 The smart contract requires the following parameters to be specified BEFORE compiling & deploying on Remix:
