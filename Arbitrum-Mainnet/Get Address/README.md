@@ -15,7 +15,7 @@ b91fd273ac784d6e96d6e7f5ad6f441c
 ```
 Oracle Fee: 0.15 [LINK](https://arbiscan.io/address/0xf97f4df75117a78c1A5a0DBb814Af92458539FB4)
 
-NOTE: Chainlink oracles operating on Arbitrum Mainnet, must be paid in the erc677 LINK token, not the erc20 LINK token. To swap between the two LINK tokens: use the official Chainlink Platform: [Pegswap](https://pegswap.chain.link/)
+NOTE: Chainlink oracles operating on Arbitrum Mainnet, must be paid in the ERC20 LINK token. To swap between Ethereum and Arbitrum networks: use the [Arbitrum Bridge](https://bridge.arbitrum.io/).
 
 ## Input Variables:
 The smart contract requires the following parameters to be specified BEFORE compiling & deploying on Remix:
