@@ -7,6 +7,12 @@ pragma solidity ^0.8.7;
 import "@chainlink/contracts/src/v0.8/ChainlinkClient.sol";
 import "@chainlink/contracts/src/v0.8/ConfirmedOwner.sol";
 
+/**
+ * THIS IS AN EXAMPLE CONTRACT WHICH USES HARDCODED VALUES FOR CLARITY.
+ * THIS EXAMPLE USES UN-AUDITED CODE.
+ * DO NOT USE THIS CODE IN PRODUCTION.
+ */
+ 
 contract getBoolTemplate is ChainlinkClient, ConfirmedOwner {
   using Chainlink for Chainlink.Request;
 
