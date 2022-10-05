@@ -18,7 +18,7 @@ contract getAddressTemplate is ChainlinkClient {
 
   constructor() {
     setChainlinkToken(0x404460c6a5ede2d891e8297795264fde62adbb75);
-    setChainlinkOracle(0xEF847C4D7893C4598f234638CebE25B4C9Ea32B3);
+    setChainlinkOracle(0x3d5552a177Fe380CDDe28a034EA93C2d30b80b2D);
     externalJobId = "b91fd273ac784d6e96d6e7f5ad6f441c";
     oraclePayment = ((15 * LINK_DIVISIBILITY) / 100); // n * 10**18
   }
