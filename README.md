@@ -10,7 +10,7 @@
 |   Polygon     |     Mumbai      | :heavy_check_mark: | :x: |
 |   Arbitrum    |     Mainnet     | :heavy_check_mark: | :x: |
 |   BSC         |     Mainnet     | :heavy_check_mark: | :x: |
-|   FTM         |     Mainnet     | :heavy_check_mark: | :x: |
+|   Fantom      |     Mainnet     | :heavy_check_mark: | :x: |
 
 * For us to add your requesting smart contract to our `job-spec.toml` whitelist, please contact us on our [Discord](https://discord.gg/xkWAfW9D6c) and give us the smart contract address.
 
