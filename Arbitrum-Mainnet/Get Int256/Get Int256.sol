@@ -13,7 +13,7 @@ import "@chainlink/contracts/src/v0.8/ConfirmedOwner.sol";
  * DO NOT USE THIS CODE IN PRODUCTION.
  */
  
-contract getUintTemplate is ChainlinkClient, ConfirmedOwner {
+contract getIntTemplate is ChainlinkClient, ConfirmedOwner {
   using Chainlink for Chainlink.Request;
 
   int256 public int;
