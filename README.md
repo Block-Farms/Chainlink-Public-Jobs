@@ -20,7 +20,12 @@
 
 * All jobs listed in this repo are of the `GET` format (ex: `curl GET https://api-endpoint-example.com`).
 
-* If your projects requirements need a private `POST` format with data inputs (ex: `curl -X POST -H "content-type:application/json" https://api-endpoint-example.com --data '{ "input1_key": "input1_value" }`), please contact us on our discord.
+* If your projects requirements need a private `POST` format with data inputs, please contact us on our discord.
+
+ex: 
+```
+curl -X POST -H "content-type:application/json" https://api-endpoint-example.com --data '{"input1_key": "input1_value"}'
+```
 
 [Testnet Channel](https://discord.gg/TsCufjeQkn)
 
