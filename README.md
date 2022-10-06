@@ -16,11 +16,11 @@
 
 * For unsupported Mainnet networks, if the network you are requesting is listed [here](https://docs.chain.link/docs/link-token-contracts/): please contact us on [Discord](https://discord.gg/xkWAfW9D6c)
 
-## Private & Custom data requests 	:dark_sunglasses:
+## Private & Custom Data Requests 	:dark_sunglasses:
 
 * All jobs listed in this repo are of the `GET` format (ex: `curl GET https://api-endpoint-example.com`).
 
-* If your projects requirements need a private `POST` format (ex: `curl POST https://api-endpoint-example.com`), please contact us on our discord.
+* If your projects requirements need a private `POST` format with data inputs (ex: `curl -X POST -H "content-type:application/json" https://api-endpoint-example.com --data '{ "input1_key": "input1_value" }`), please contact us on our discord.
 
 [Testnet Channel](https://discord.gg/TsCufjeQkn)
 
