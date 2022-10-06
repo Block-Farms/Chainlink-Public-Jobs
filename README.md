@@ -5,7 +5,7 @@
 |    Network    | Testnet/Mainnet |  Status  |    Whitelisting Required   |
 | ------------- |  -------------  | --------------------- | ----------- |
 |   Ethereum    |     Mainnet     | :heavy_check_mark: | :heavy_check_mark: |
-|   Ethereum    |     Goerli      | :x: | :x: |
+|   Ethereum    |     Goerli      | :heavy_check_mark: | :x: |
 |   Polygon     |     Mainnet     | :heavy_check_mark: | :x: |
 |   Polygon     |     Mumbai      | :heavy_check_mark: | :x: |
 |   Arbitrum    |     Mainnet     | :heavy_check_mark: | :x: |
