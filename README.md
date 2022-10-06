@@ -20,16 +20,17 @@
 
 * All jobs listed in this repo are of the `GET` format (ex: `curl GET https://api-endpoint-example.com`).
 
-* If your projects requirements need a private `POST` format with data inputs, please contact us on our discord.
+* If your projects requirements need a private `POST` format with data inputs, please contact us on our discord in the appropriate channel.
+
+[Testnet Channel](https://discord.gg/TsCufjeQkn)
+
+[Mainnet Channel](https://discord.gg/xkWAfW9D6c)
 
 ex: 
 ```
 curl -X POST -H "content-type:application/json" https://api-endpoint-example.com --data '{"input1_key": "input1_value"}'
 ```
 
-[Testnet Channel](https://discord.gg/TsCufjeQkn)
-
-[Mainnet Channel](https://discord.gg/xkWAfW9D6c)
 
 ## Troubleshooting: :hammer_and_wrench:
 [1] Correct LINK token, please check [Chainlink documentation](https://docs.chain.link/docs/link-token-contracts/) and the notes related to the network you are sending oracle requests on for ERC20 vs ERC677 LINK tokens.
