@@ -66,11 +66,11 @@ Note: Divide by the multiplication factor to get the proper decimal places back 
 
 [5] Compile & Deploy
 
-[6] ~~Send the minimum erc677 LINK for the number of requests to your newly deployed smart contract~~
+[6] Send the minimum erc677 LINK for the number of requests to your newly deployed smart contract
 
 [6] Click the orange `requestValue1AndValue2` button in the smart contract Read/Write functionality
 
-[7] ~~Pay the gas to send the request to our oracle~~
+[7] Pay the gas to send the request to our oracle
 
 [8] Wait ~1-2minutes (1-2 blocks) for the requested to be delivered to your requesting smart contract
 
