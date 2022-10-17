@@ -58,7 +58,7 @@ Note: Divide by the multiplication factor to get the proper decimal places back 
 ## Deploying the Requesting Smart Contract & Getting your first data delivered:
 [1] Go to [Remix.org](https://remix.ethereum.org/)
 
-[2] Login to Metamask, and ensure the network currently used is avax Mainnet.
+[2] Login to Metamask, and ensure the network currently used is Avax Mainnet.
 
 [3] Copy & Paste the entire contents of `Get > Int256.sol` from this directory
 
