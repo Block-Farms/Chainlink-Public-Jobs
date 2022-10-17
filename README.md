@@ -19,7 +19,8 @@
 
 ## Private & Custom Data Requests 	:dark_sunglasses:
 
-* All jobs listed in this repo are of the `GET` format 
+* All jobs listed in this repo are of the `GET` format
+
 ex: 
 
 ```curl GET https://api-endpoint-example.com```
