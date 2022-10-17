@@ -21,7 +21,8 @@
 
 * All jobs listed in this repo are of the `GET` format 
 
-ex: `curl GET https://api-endpoint-example.com`
+ex: 
+```curl GET https://api-endpoint-example.com```
 
 * If your projects requirements need a private `POST` format with data inputs, please contact us on our discord in the appropriate channel.
 
