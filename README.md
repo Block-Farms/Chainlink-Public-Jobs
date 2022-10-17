@@ -10,6 +10,7 @@
 |   Polygon     |     Mumbai      | :heavy_check_mark: | :x: |
 |   Arbitrum    |     Mainnet     | :heavy_check_mark: | :x: |
 |   BSC         |     Mainnet     | :heavy_check_mark: | :x: |
+|   Avalanche   |     Mainnet     | :heavy_check_mark: | :x: |
 |   Fantom      |     Mainnet     | :heavy_check_mark: | :x: |
 
 * For us to add your requesting smart contract to our `job-spec.toml` whitelist, please contact us on our [Discord](https://discord.gg/xkWAfW9D6c) and give us the smart contract address.
@@ -18,7 +19,9 @@
 
 ## Private & Custom Data Requests 	:dark_sunglasses:
 
-* All jobs listed in this repo are of the `GET` format (ex: `curl GET https://api-endpoint-example.com`).
+* All jobs listed in this repo are of the `GET` format 
+
+ex: `curl GET https://api-endpoint-example.com`
 
 * If your projects requirements need a private `POST` format with data inputs, please contact us on our discord in the appropriate channel.
 
