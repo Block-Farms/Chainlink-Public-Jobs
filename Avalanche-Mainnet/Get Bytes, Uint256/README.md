@@ -66,7 +66,7 @@ Note: Divide by the multiplication factor to get the proper decimal places back 
 
 [5] Compile & Deploy
 
-[6] Click the orange `RequestAddressAndAmount` button in the smart contract Read/Write functionality
+[6] Click the orange `RequestBytesAndAmount` button in the smart contract Read/Write functionality
 
 [7] Pay the gas to send the request to our oracle
 
