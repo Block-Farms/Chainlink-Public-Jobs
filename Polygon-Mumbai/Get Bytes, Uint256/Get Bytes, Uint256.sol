@@ -25,7 +25,7 @@ contract getMultiDataTypeTemplate is ChainlinkClient {
   }
 
 
-  function requestAddressAndAmount(
+  function requestBytesAndAmount(
   )
     public
   {
