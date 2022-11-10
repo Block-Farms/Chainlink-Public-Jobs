@@ -18,7 +18,7 @@ contract getMultiVariableTemplate is ChainlinkClient, ConfirmedOwner {
 
   constructor() ConfirmedOwner(msg.sender){
   setChainlinkToken(0x326C977E6efc84E512bB9C30f76E30c160eD06FB);
-  setChainlinkOracle = 0xedaa6962Cf1368a92e244DdC11aaC49c0A0acC37;
+  setChainlinkOracle(0xedaa6962Cf1368a92e244DdC11aaC49c0A0acC37);
   externalJobId = "d3439590d6b047a38f1cd984154b1c0e";
   oraclePayment = (0.0 * LINK_DIVISIBILITY); // n * 10**18
   }
