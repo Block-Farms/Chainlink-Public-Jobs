@@ -36,7 +36,7 @@ Curl command :
 curl https://raw.githubusercontent.com/Block-Farms/Chainlink-Public-Jobs/master/example-json/uint256%5Barray%5D-example.json
 ```
 
-* JSON Path : `"data,0"`
+* JSON Path : `"data"`
 
 JSON API Output:
 ```
